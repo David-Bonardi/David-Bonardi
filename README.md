@@ -5,6 +5,9 @@
 
 ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=David-Bonardi&show_icons=true&theme=onedark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Bonardi&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Tecnologias que eu utilizo
 
 <div style="display: inline_block"><br/>
