@@ -18,7 +18,14 @@
   <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   </div><br/>
 
-  I'm just a guy who's been in love with technology since he was little and wants to change the world in any way using it.
+  Apaixonado por tecnologia e sempre querendo mudar o mundo usando ela.
+
+  ## Repositórios principais ⭐
+
+  - [Minhas tarefas - Com react, redux e typescript (Em desenvolvimento)](https://github.com/David-Bonardi/minhas-tarefas)
+  - [Clone disney+ - Com HTML, SASS, JS e Grunt](https://github.com/David-Bonardi/clone_disneyplus)
+  - [Django Cars - Com Python e Django (Em desenvolvimento)](https://github.com/David-Bonardi/Django_cars)
+
 
 
 
