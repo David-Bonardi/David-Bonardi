@@ -24,10 +24,9 @@
   Apaixonado por tecnologia e sempre querendo mudar o mundo usando ela.
 
   ## Repositórios principais ⭐
-
+  - [Django Cars - Com Python e Django](https://github.com/David-Bonardi/Django-cars)
   - [Minhas tarefas - Com react, redux e typescript (Em desenvolvimento)](https://github.com/David-Bonardi/minhas-tarefas)
   - [Clone disney+ - Com HTML, SASS, JS e Grunt](https://github.com/David-Bonardi/clone_disneyplus)
-  - [Django Cars - Com Python e Django (Em desenvolvimento)](https://github.com/David-Bonardi/Django-cars)
 
 
 
